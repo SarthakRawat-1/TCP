@@ -18,8 +18,10 @@ gcc sockets.c -o client
 
 # Run (connects to Yahoo web server)
 ./client
+```
 
 ## Server Usage
+``` bash
 # Compile
 gcc srv.c -o server
 
